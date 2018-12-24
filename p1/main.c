@@ -5,7 +5,6 @@
 
 #include <stdio.h>
 #include <string.h>
-#include <check.h>
 
 int longestSubseq(const char[], const char[], char[]);
 int possibleResult(int, const char[], const char[], char[]);
